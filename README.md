@@ -1,0 +1,1 @@
+# Coursera: Advanced Styling with Responsive Design - Second Week Project
